@@ -1,5 +1,4 @@
-https://discord.gg/XFX2PEphttps://discord.gg/XFX2PEphttps://discord.gg/XFX2PEp
-﻿const Discord = require('discord.js');
+const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', () => {
