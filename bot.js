@@ -1,4 +1,3 @@
-https://discord.gg/Jy3QrWxhttps://discord.gg/Jy3QrWx
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
